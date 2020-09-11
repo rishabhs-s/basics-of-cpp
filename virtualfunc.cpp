@@ -4,7 +4,7 @@ using namespace std;
 
 class A{
 	public:
-		void fun(){
+	virtual	void fun(){
 			
 		};
 class B:public A(){
